@@ -13,6 +13,7 @@ public class SalesManager_Tests extends TestBase {
 		
 
 		 salesManagerObjects.loginAsSalesManager();
+		 System.out.println("Verify second commit");
 		 
 		 // some modifications
 		 
