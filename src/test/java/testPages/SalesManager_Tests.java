@@ -14,6 +14,8 @@ public class SalesManager_Tests extends TestBase {
 
 		 salesManagerObjects.loginAsSalesManager();
 		 
+		 // some modifications
+		 
 	
 	
 	}
